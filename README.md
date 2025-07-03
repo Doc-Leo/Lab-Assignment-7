@@ -1,4 +1,4 @@
-# Lab-Assignment-7
+# Design Pattern
 
 ![image](https://github.com/user-attachments/assets/40ebed8a-1f54-4059-bf7d-e1985254a5c8)
 
